@@ -27,10 +27,4 @@ PUT - /api/v1/rooms/{id}
 DELETE - /api/v1/rooms/{Id}
 
 
-[Live Digital Innovation One dessa aplicação](https://www.youtube.com/watch?v=_2gRnfJeyMM)
-
-[slides - em breve]()
-
-
-
  
